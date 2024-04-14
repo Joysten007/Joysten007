@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joysten007
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React Js
+- 🌱 I React Js to build websites and web applications
 - 💞️ I’m looking to collaborate on projects on the frontend side 
 - 📫 Reach me at joystendsilva@gmail.com
 
